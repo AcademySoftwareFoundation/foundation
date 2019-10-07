@@ -121,8 +121,7 @@ Effective September 22, 2019
 
     - **e**.  In the event of a tied vote with respect to an action that cannot be resolved by the Governing Board, the Chair may refer the matter to the LF for assistance in reaching a decision. If there is a tied vote in any Committee that cannot be resolved, the matter may be referred to the Governing Board.
 
-9)  Good Standing
-    =============
+9)  **Good Standing**
 
     - **a**.  The Linux Foundation's Good Standing Policy is available at <https://www.linuxfoundation.org/good-standing-policy> and will apply to Members of this Directed Fund.
 
