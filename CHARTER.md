@@ -25,39 +25,39 @@ Effective September 22, 2019
     - **e**.  Directed Fund Membership is non-transferable, non-salable and non-assignable, except a Member may transfer its current Membership benefits and obligations to a successor of substantially all of its business or assets, whether by merger, sale or otherwise that is, or upon such transfer becomes, a member of The Linux Foundation; provided that the transferee agrees to be bound by this Charter and the Bylaws and policies required by LF membership.
 
     - **f**.  Members will be entitled to:
- - **i**.  participate in Directed Fund general meetings, initiatives, events and any other activities; and
- - **ii**. identify themselves as members of the Academy Software Foundation and supporting the Academy Software Foundation community.
+         - **i**.  participate in Directed Fund general meetings, initiatives, events and any other activities; and
+         - **ii**. identify themselves as members of the Academy Software Foundation and supporting the Academy Software Foundation community.
 
 3)  **Governing Board**
 
     - **a**.  The Governing Board voting members will consist of:
- - **i**. one representative appointed by each Premier Member;
- - **ii**. one representative appointed by the Academy of Motion Picture Arts & Sciences;
- - **iii**.  the TAC Representative (as defined herein);
- - **iv**. the chair of the technical steering committee of CI Build System Project a Series of LF Projects, LLC (or any successor series established to support the continuous integration and build requirements of the Technical Projects); and
- - **v**. the elected General Member representative(s).
+         - **i**. one representative appointed by each Premier Member;
+         - **ii**. one representative appointed by the Academy of Motion Picture Arts & Sciences;
+         - **iii**.  the TAC Representative (as defined herein);
+         - **iv**. the chair of the technical steering committee of CI Build System Project a Series of LF Projects, LLC (or any successor series established to support the continuous integration and build requirements of the Technical Projects); and
+         - **v**. the elected General Member representative(s).
 
     - **b**.  Conduct of Meetings
- - **i**. Governing Board meetings will be limited to the Governing Board representatives, the Outreach Committee Chair, invited guests and LF staff.
- - **ii**. Governing Board meetings follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow one named representative to attend as an alternate.
- - **iii**.  The Governing Board meetings will be private unless decided otherwise by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board).
+         - **i**. Governing Board meetings will be limited to the Governing Board representatives, the Outreach Committee Chair, invited guests and LF staff.
+         - **ii**. Governing Board meetings follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow one named representative to attend as an alternate.
+         - **iii**.  The Governing Board meetings will be private unless decided otherwise by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board).
 
     - **c**.  Officers
- - **i**.  The officers ("Officers") of the Directed Fund as of the first meeting of the Governing Board will be a Chairperson ("Chair") and a Treasurer. Additional Officer positions may be created by the Governing Board.
- - **ii**. The Chair will preside over meetings of the Governing Board, manage any day-to-day operational decisions, and will submit minutes for Governing Board approval.
- - **iii**. The Treasurer will assist in the preparation of budgets for Governing Board approval, monitor expenses against the budget and authorize expenditures approved in the budget.
+         - **i**.  The officers ("Officers") of the Directed Fund as of the first meeting of the Governing Board will be a Chairperson ("Chair") and a Treasurer. Additional Officer positions may be created by the Governing Board.
+         - **ii**. The Chair will preside over meetings of the Governing Board, manage any day-to-day operational decisions, and will submit minutes for Governing Board approval.
+         - **iii**. The Treasurer will assist in the preparation of budgets for Governing Board approval, monitor expenses against the budget and authorize expenditures approved in the budget.
 
     - **d**.  The Governing Board will be responsible for overall management of the Directed Fund, including:
- - **i**. approve a budget directing the use of funds raised by the Directed Fund from all sources of revenue;
- - **ii**. nominate and elect Officers of the Directed Fund;
- - **iii**. oversee all Directed Fund business and community outreach matters and work with the LF on any legal matters that arise;
- - **iv**. adopt and maintain policies or rules and procedures for the Directed Fund (subject to LF approval);
- - **v**. subject to Section 11, establish any additional criteria or requirements for membership in the Directed Fund;
- - **vi**. establish ad-hoc committees to resolve a particular matter or establish additional committees, in support of the mission of the Directed Fund;
- - **vii**. establish any conformance programs and solicit input (including testing tools) from the TSC for defining and administering any programs related to conformance with any Technical Project, (a "Compliance Program");
- - **viii**.  publish use cases, user stories, websites and priorities to help inform the ecosystem and technical community;
- - **ix**. approve procedures for the nomination and election of any representative of the General Members to the Governing Board and any Officer or other positions created by the Governing Board; and
- - **x**. vote on all decisions or matters coming before the Governing Board.
+         - **i**. approve a budget directing the use of funds raised by the Directed Fund from all sources of revenue;
+         - **ii**. nominate and elect Officers of the Directed Fund;
+         - **iii**. oversee all Directed Fund business and community outreach matters and work with the LF on any legal matters that arise;
+         - **iv**. adopt and maintain policies or rules and procedures for the Directed Fund (subject to LF approval);
+         - **v**. subject to Section 11, establish any additional criteria or requirements for membership in the Directed Fund;
+         - **vi**. establish ad-hoc committees to resolve a particular matter or establish additional committees, in support of the mission of the Directed Fund;
+         - **vii**. establish any conformance programs and solicit input (including testing tools) from the TSC for defining and administering any programs related to conformance with any Technical Project, (a "Compliance Program");
+         - **viii**.  publish use cases, user stories, websites and priorities to help inform the ecosystem and technical community;
+         - **ix**. approve procedures for the nomination and election of any representative of the General Members to the Governing Board and any Officer or other positions created by the Governing Board; and
+         - **x**. vote on all decisions or matters coming before the Governing Board.
 
 4)  **Outreach Committee**
 
@@ -80,29 +80,26 @@ Effective September 22, 2019
     - **a**.  The Budget Committee will consist of representatives of the Governing Board that volunteer to be a named participant on the Budget Committee.
 
     - **b**.  The responsibilities of the Budget Committee include:
- - **i**. assisting the Treasurer in preparation of annual budgets that adhere to the principles and guidelines established by the Governing Board;
- - **ii**. developing and reporting metrics for the allocation of budget in relation to meeting the priorities of the Governing Board;
- - **iii**.  reviewing the progress of the Directed Fund against the annual budget;
- - **iv**. preparing forecasts for future financial needs of the Directed Fund; and
- - **v**. such other matters related to finance and the financial operation of the Directed Fund as may be directed to the Budget Committee by the Governing Board.
+         - **i**. assisting the Treasurer in preparation of annual budgets that adhere to the principles and guidelines established by the Governing Board;
+         - **ii**. developing and reporting metrics for the allocation of budget in relation to meeting the priorities of the Governing Board;
+         - **iii**.  reviewing the progress of the Directed Fund against the annual budget;
+         - **iv**. preparing forecasts for future financial needs of the Directed Fund; and
+         - **v**. such other matters related to finance and the financial operation of the Directed Fund as may be directed to the Budget Committee by the Governing Board.
 
     - **c**.  The Treasurer shall be chairperson of the Budget Committee.
 
 7)  **Technical Advisory Council**
 
     - **a**.  The role of the TAC is to facilitate communication and collaboration among the Technical Projects. The TAC will be responsible for:
- - **i**. coordinating collaboration among Technical Projects, including development of an overall technical vision for the community;
- - **ii**.  making recommendations to the Budget Committee of resource priorities for Technical Projects;
- - **iii**.   electing annually a chairperson to preside over meetings, set the agenda for meetings, ensure meeting minutes are taken and who will also serve on the Governing Board as the TAC's representative (the "TAC Representative"); and
- - **iv**. such other matters related to the technical role of the TAC as may be communicated to the TAC by the Governing Board.
-
+         - **i**. coordinating collaboration among Technical Projects, including development of an overall technical vision for the community;
+         - **ii**.  making recommendations to the Budget Committee of resource priorities for Technical Projects;
+         - **iii**.   electing annually a chairperson to preside over meetings, set the agenda for meetings, ensure meeting minutes are taken and who will also serve on the Governing Board as the TAC's representative (the "TAC Representative"); and
+         - **iv**. such other matters related to the technical role of the TAC as may be communicated to the TAC by the Governing Board.
     - **b**.  For the first twelve months following the initial meeting of the Governing Board and until otherwise determined by the TAC pursuant to Section 7.c., the voting members of the TAC consist of:
- - **i**. one representative appointed by each Premier Member;
- - **ii**. one representative appointed by the technical oversight body (e.g., a technical steering committee) of each TAC Project (as defined herein); and
- - **iii**.  up to three experts from the broader motion picture industry ("Industry Representatives"). Industry Representatives are selected by vote of the TAC excluding, for quorum and voting purposes, any then currently-serving Industry Representatives. Industry Representatives serve for one-year terms and may be replaced or re-selected for additional terms by vote of the TAC.
-
+         - **i**. one representative appointed by each Premier Member;
+         - **ii**. one representative appointed by the technical oversight body (e.g., a technical steering committee) of each TAC Project (as defined herein); and
+         - **iii**.  up to three experts from the broader motion picture industry ("Industry Representatives"). Industry Representatives are selected by vote of the TAC excluding, for quorum and voting purposes, any then currently-serving Industry Representatives. Industry Representatives serve for one-year terms and may be replaced or re-selected for additional terms by vote of the TAC.
     - **c**.  At any time following the first anniversary of the initial meeting of the Governing Board, the TAC may by vote decide upon an alternate structure for voting representation on the TAC, subject to the approval of the Governing Board.
-
     - **d**.  One representative of any Member may observe meetings of the TAC. Any committers from a TAC Project may observe meetings of the TAC. The TAC may change this at any point in time, including: (a) opening meetings to a broader community; (b) holding closed meetings; and (c) holding meetings open to the public.
 
     - **e**.  At the start of the Directed Fund, "TAC Projects" are those Technical Projects listed as having voting representatives on the TAC on the Directed Fund's web site. Thereafter, any Technical Project can become a TAC Project through the approval of the Technical Project's technical oversight body, the TAC, and the Governing Board. The TAC and the Governing Board may approve a project lifecycle policy that will address the incubation and archival of TAC Projects.
