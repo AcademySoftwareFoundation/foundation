@@ -53,7 +53,7 @@ This charter (the "Charter") sets forth the responsibilities and procedures for 
 ## 7. Intellectual Property Policy
   * **a.** Participants acknowledge that the copyright in all new contributions shall be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project.
   * **b.** Except as described in Section 7.c., all code contributions to the Project are subject to the following:
-    * **i.** All new inbound code contributions to the Project must be made using the **[Apache License, Version 2.0 (available here: https://www.apache.org/licenses/LICENSE-2.0)]** (the "Project License").
+    * **i.** All new inbound code contributions to the Project must be made using the Apache License, Version 2.0 (available here: https://www.apache.org/licenses/LICENSE-2.0) (the "Project License"), with the exception of code repositories designated by the TSC to be used as a template repository, which will be must be made to be available under a choice of either the Project License or the MIT License ( available here: https://spdx.org/licenses/MIT.html )
     * **ii.** All new inbound code contributions must:
       1. be made pursuant to a duly executed Project Contribution License Agreement (the "CLA"), available on the Project's web site; and
       2. be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
