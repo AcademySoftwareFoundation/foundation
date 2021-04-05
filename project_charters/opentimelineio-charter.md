@@ -41,8 +41,8 @@ This charter (the "Charter") sets forth the responsibilities and procedures for 
   * **e.** The Project will operate in a transparent, open, collaborative, and ethical manner at all times. The output of all Project discussions, proposals, timelines, decisions, and status should be made open and easily visible to all. Any potential violations of this requirement should be reported immediately to the LF Projects Manager.
 
 ## 5. Community Assets
-  * **a.** LF Projects shall hold title to all trade or service marks used by the Project ("Project Trademarks"), whether based on common law or registered rights. Project Trademarks shall be transferred and assigned to LF Projects to hold on behalf of the Project. Any use of any Project Trademarks by participants in the Project shall be in accordance with the license from LF Projects and inure to the benefit of LF Projects.
-  * **b.** The Project shall, as permitted and in accordance with such license from LF Projects, develop and own all Project GitHub and social media accounts, and domain name registrations created by the Project community.
+  * **a.** Any use of any trade or service marks owned by LF Projects (“Project Trademarks”) by participants in the Project shall be in accordance with the license from LF Projects and inure to the benefit of LF Projects.
+  * **b.** The Project shall, as permitted and in accordance with such license from LF Projects, develop and own all Project GitHub and social media accounts, and domain name registrations created specifically for the Project by the Project community.
   * **c.** Under no circumstances shall LF Projects be expected or required to undertake any action on behalf of the Project that is inconsistent with the tax-exempt status or purpose, as applicable, of LFP, Inc. or LF Projects, LLC.
 
 ## 6. General Rules and Operations.
@@ -64,4 +64,4 @@ This charter (the "Charter") sets forth the responsibilities and procedures for 
   * **d.** Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
 
 ## 8. Amendments
-  * **a.** This charter may be amended by a two-thirds vote of the entire TSC and is subject to approval by LF Projects.
+  * **a.** This charter may be amended by a two-thirds vote of the entire TSC and is subject to reasonable approval by LF Projects.
