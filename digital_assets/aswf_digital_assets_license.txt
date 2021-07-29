@@ -1,6 +1,6 @@
 ASWF Digital Assets License v1.0
 
-License for <Asset Name, e.g. “Moana Island Scene”> (the “Asset Name”).
+License for <Asset Name> (the “Asset Name”).
 
 <Asset Name> Copyright <Year> <Asset Owner>. All rights reserved.
 
