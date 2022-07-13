@@ -1,1 +1,1 @@
-Moved to https://cdn.platform.linuxfoundation.org/agreements/aswf.pdf
+Moved to [charter.aswf.io](https://charter.aswf.io)
