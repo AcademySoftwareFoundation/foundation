@@ -1,3 +1,10 @@
 # Academy Software Foundation (ASWF) foundation documents
 
-This repository contains many of the governance and overview documents for the Academy Software Foundation (ASWF), as much as possible in a format to easily track changes and updates. For any projects referencing the Charter, Code of Conduct, or Branding Guidelines, it is preferred to reference this location to avoid any confusion and ensure you are using the most update to date resource.
+This repository contains many of the governance and overview documents for the Academy Software Foundation (ASWF).
+
+- [Academy Software Foundation Directed Fund Charter](CHARTER.md)
+- [Overview Deck](overview_deck) for the foundation
+- [Project Charters](project_charters) for the hosted projects
+- [ASWF Digital Assets License](digital_assets)
+
+Please file a [service deck issue](https://servicedesk.aswf.io) with the Academy Software Foundation team if you have any questions, and [open a pull request](pulls) for any corrections needed.
