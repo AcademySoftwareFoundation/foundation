@@ -1,0 +1,38 @@
+zowe_conformance/Zowe.Conformance.Program.-.Brand.Guidelines.pdf
+zowe_conformance/Zowe.Conformance.Program.-.Participation.Form.pdf
+zowe_conformance/Zowe.Conformance.Program.-.Terms.and.Conditions.pdf
+zowe_conformance/Zowe.Conformance.Program.-.Test.Evaluation.Guide.Table.pdf
+zowe_conformance/Zowe.Conformance.Program.-.Test.Evaluation.Guide.pdf
+zowe_conformance/Zowe.Support.Provider.-.Test.Evaluation.Guide.Table.pdf
+zowe_conformance/Zowe.Support.Provider.-.Test.Evaluation.Guide.pdf
+overview_deck/Open Mainframe Project - Membership Overview.pdf
+overview_deck/The Linux Foundation - Silver Membership Overview.pdf
+overview_deck/credentials.json
+overview_deck/token.json
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
