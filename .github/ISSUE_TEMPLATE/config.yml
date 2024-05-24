@@ -6,6 +6,9 @@ contact_links:
   - name: Project Infrastructure Support
     url: https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/group/6
     about: Request new or changes to mailing list, Slack channel, GitHub organization, 1Password vault, or other infrastructure
+  - name: CLA questions and issues
+    url: https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/143
+    about: Ask questions about the CLAs for hosted projects and report issues with using LFX EasyCLA
   - name: Transfer domain to Academy Software Foundation
     url: https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/create/63
     about: For transfering a project-owned domain to the Academy Software Foundation
