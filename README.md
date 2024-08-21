@@ -12,5 +12,6 @@ This repository contains many governance and overview documents for the Academy 
   - [Semi-Annual Survey Results](./surveys)
 - Policies and Guidelines
   - [Elections process and schedule](./elections.md)
+  - [Succession](./policies/succession.md)
 
 Please file a [service deck issue at servicedesk.aswf.io](https://servicedesk.aswf.io) with the Academy Software Foundation team if you have any questions, and [open a pull request](https://github.com/AcademySoftwareFoundation/foundation/pulls) for any corrections needed.
