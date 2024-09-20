@@ -7,7 +7,8 @@ The Academy Software Foundation seeks to hold open, fair, transparent, and effic
 | General Member Governing Board representative(s) | January 1 - December 31                         | Academy Software Foundation General Membership class | One for every five General Members, minimum one representative and maximum of three representatives ( see [Academy Software Foundation Charter](http://charter.aswf.io/) section 2(c) ). |
 | Governing Board Chairperson                      | Reviewed annually by Governing Board in January | Governing Board representatives                      | One.                                                         |
 | Governing Board Secretary                        | Reviewed annually by Governing Board in January | Governing Board representatives                      | One.                                                         |
-| TAC Chairperson                                  | Reviewed annually by Governing Board in January | Voting TAC representatives                           | One.                                                         |
+| TAC Vice Chairperson                            | January 1 - December 31 | Voting TAC representatives                           | One.                                                         |
+
 
 Elections are typically held the month before the role end date for each role above. The exact timeline will be communicated to the electorate group but generally has the following structure.
 
@@ -29,7 +30,7 @@ Nominations are done via email. Members of the electorate group may nominate som
 
 If there are the same number or fewer nominees for the given role as there are persons to be elected, those nominees are automatically elected. The electorate will be informed of this via email.
 
-An election will be held if there are more nominees for the given role than the number of persons elected. The Academy Software Foundation uses [OpaVote](https://opavote.com) for the election process. Electorates will be sent an email with the complete list of nominees to review and a separate email from OpaVote with a unique link to submit their ballot. Voting will be done using the checkbox method; electors will checkbox the individual(s) they wish to elect.
+An election will be held if there are more nominees for the given role than the number of persons elected. The Academy Software Foundation uses [LFX PCC Voting]([https://opavote.com](https://docs.linuxfoundation.org/lfx/project-control-center/v2-latest-version/collaborations/voting)) for the election process. Electorates will be sent an email with the complete list of nominees to review and a separate email from LFX PCC Voting with a unique link to submit their ballot. Voting will be done using the checkbox method; electors will checkbox the individual(s) they wish to elect.
 
 Election results will be announced to the electorate and relevant committee the day after the election closes.
 
