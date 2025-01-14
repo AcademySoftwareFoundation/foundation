@@ -2,7 +2,7 @@
 
 This document outlines the Academy Software Foundation Governing Board Succession Plan, which was initially approved on April 26, 2022. This policy was developed by the Governing Board Succession board committee, with input from the Diversity and Inclusion Working Group.
 
-This document may be amended at any time with a simple majority of the Governing Board in the affirmative. The Governing Board Succession board committee shall regularly review the organizational and diversity impacts of this policy and provide suggestions for changes or additional programs to be implimented.
+This document may be amended at any time with a simple majority of the Governing Board in the affirmative. The Governing Board Succession board committee shall regularly review the organizational and diversity impacts of this policy and provide suggestions for changes or additional programs to be implemented.
 
 ## Purpose
 
@@ -22,7 +22,7 @@ Governing Board representatives may serve a maximum 4 year term, measured from s
 
 #### Phase-in
 
-By December 1, 2022, rotate out a minimum of 25% of qualifying Governing Board representatives annually on a voluntary basis, with subsequent minimum 25% rotation targets each December 1 thereafter until all Governing Board representatives as of April 26, 2022 are rotated out. If needed, the Governing Board shall impliment a lottery to reach annual 25% rotation goal.
+By December 1, 2022, rotate out a minimum of 25% of qualifying Governing Board representatives annually on a voluntary basis, with subsequent minimum 25% rotation targets each December 1 thereafter until all Governing Board representatives as of April 26, 2022 are rotated out. If needed, the Governing Board shall implement a lottery to reach annual 25% rotation goal.
 
 ### Alternates
 
@@ -30,8 +30,8 @@ The role of the alternate is to support the primary Governing Board representati
 
 Additional guidelines for alternates are:
 
-- Governing Board representatives must select an alternate within the first 2 years of membership. Existing members should select thier alternates by July 1, 2022.
-- The alternate must be an employee of the Governing Board representative organization. 
+- Governing Board representatives must select an alternate within the first 2 years of membership. Existing members should select their alternates by July 1, 2022.
+- The alternate must be an employee of the Governing Board representative organization.
 - Alternates can be changed at any time.
 - There are no term limits for alternates.
 
