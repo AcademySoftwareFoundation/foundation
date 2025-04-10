@@ -20,7 +20,7 @@ This license is available to be used by both ASWF and non-ASWF projects.
 
 ## License Notices
 
-When releasing assets under this license, be sure to replace the angle bracketed sections in the header of the template (<Asset Name>, <Year>, <Asset Owner>) with the applicable information for your asset. You may wish to consult with your own legal counsel if you have questions about the specific details to include.
+When releasing assets under this license, be sure to replace the angle bracketed sections in the header of the template (`<Asset Name>`, `<Year>`, `<Asset Owner>`) with the applicable information for your asset. You may wish to consult with your own legal counsel if you have questions about the specific details to include.
 
 Assets should include language within their metadata indicating the use of this license and pointing to the full license text using the URL format `https://aswf.io/licenses/aswf_digital_assets_license_vx.y.txt` with `x` being the major version number and `y` being the minor version number. Example below:
 
@@ -28,8 +28,8 @@ Assets should include language within their metadata indicating the use of this 
 Released under the ASWF Digital Assets License v1.0 (available at https://aswf.io/licenses/aswf_digital_assets_license_v1.1.txt)
 ```
 
-You can also use a license identifier in the custom SPDX "LicenseRef-" format, such as the following. Please note that this license is not currently on the SPDX License List, so this identifier uses the "LicenseRef-" prefix and will not be independently recognized by scanning tools.
+The ASWF Digital Assets licenses have been added to the [SPDX License List](https://spdx.org/licenses) (both [v1.0](https://spdx.org/licenses/ASWF-Digital-Assets-1.0.html) and [v1.1](https://spdx.org/licenses/ASWF-Digital-Assets-1.1.html)), so you can also use a [short-form SPDX License Identifier](https://spdx.dev/ids), such as the following:
   
 ```
-SPDX-License-Identifier: LicenseRef-ASWF-Digital-Assets-1.1
+SPDX-License-Identifier: ASWF-Digital-Assets-1.1
 ```
