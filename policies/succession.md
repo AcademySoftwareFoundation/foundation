@@ -18,7 +18,7 @@ The succession policy has three main components.
 
 ### Term limits
 
-Governing Board representatives may serve a maximum 4 year term, measured from start of the representative serving on the Governing Board as the representative. There is a required 2 year break between terms, and no lifetime limits for Governing Board representatives. Any Governing Board representative currently serving in an elected role ( currently defined roles are Chairperson, Vice Chairperson, and Treasurer ) are exempt from this policy.
+Governing Board representatives may serve a maximum six (6) year term, measured from the start of the individual serving as a Governing Board representative. There is a required two (2) year break between terms, and no lifetime limits for Governing Board representatives. Any Governing Board representative currently serving in an elected role ( currently defined roles are Chairperson, Vice Chairperson, and Treasurer ) is exempt from this policy.
 
 #### Phase-in
 
