@@ -1,8 +1,8 @@
 # Succession Policy
 
-This document outlines the Academy Software Foundation Governing Board Succession Plan, which was initially approved on April 26, 2022. This policy was developed by the Governing Board Succession board committee, with input from the Diversity and Inclusion Working Group.
+This document outlines the Academy Software Foundation (ASWF) Governing Board Succession Plan, which was initially approved on April 26, 2022. This policy was developed by the Governing Board Succession board committee, with input from the Diversity and Inclusion Working Group.
 
-This document may be amended at any time with a simple majority of the Governing Board in the affirmative. The Governing Board Succession board committee shall regularly review the organizational and diversity impacts of this policy and provide suggestions for changes or additional programs to be implimented.
+This document may be amended at any time with a simple majority of the Governing Board in the affirmative. The Governing Board Succession board committee shall regularly review the organizational and diversity impacts of this policy and provide suggestions for changes or additional programs to be implemented.
 
 ## Purpose
 
@@ -18,11 +18,11 @@ The succession policy has three main components.
 
 ### Term limits
 
-Governing Board representatives may serve a maximum 4 year term, measured from start of the representative serving on the Governing Board as the representative. There is a required 2 year break between terms, and no lifetime limits for board members.
+Governing Board representatives may serve a maximum six (6) year term, measured from the start of the individual serving as a Governing Board representative. There is a required two (2) year break between terms, and no lifetime limits for Governing Board representatives. Any Governing Board representative currently serving in an elected role ( currently defined roles are Chairperson, Vice Chairperson, and Treasurer ) is exempt from this policy.
 
 #### Phase-in
 
-By December 1, 2022, rotate out a minimum of 25% of qualifying Governing Board representatives annually on a voluntary basis, with subsequent minimum 25% rotation targets each December 1 thereafter until all Governing Board representatives as of April 26, 2022 are rotated out. If needed, the Governing Board shall impliment a lottery to reach annual 25% rotation goal.
+By December 1, 2022, rotate out a minimum of 25% of qualifying Governing Board representatives annually on a voluntary basis, with subsequent minimum 25% rotation targets each December 1 thereafter until all Governing Board representatives as of April 26, 2022 are rotated out. If needed, the Governing Board shall implement a lottery to reach annual 25% rotation goal.
 
 ### Alternates
 
@@ -30,14 +30,14 @@ The role of the alternate is to support the primary Governing Board representati
 
 Additional guidelines for alternates are:
 
-- Governing Board representatives must select an alternate within the first 2 years of membership. Existing members should select thier alternates by July 1, 2022.
-- The alternate must be an employee of the Governing Board representative organization. 
+- Governing Board representatives must select an alternate within the first 2 years of membership. Existing Governing Board representatives should select their alternates by July 1, 2022.
+- The alternate must be an employee of the Governing Board representative organization.
 - Alternates can be changed at any time.
 - There are no term limits for alternates.
 
 #### General Member representative alternates
 
-Governing Board members elected by the General Members shall choose an alternate from within their company. If a suitable alternate is not available from within their company, they may choose an alternate from another company within the General Membership class. In either case, alternate selection with Governing Board Member Characteristics in mind is suggested.
+Governing Board members elected by the General Members shall choose an alternate from within their company. If a suitable alternate is not available from within their company, they may choose an alternate from another company within the General Membership class. In either case, alternate selection with Governing Board representative characteristics in mind is suggested.
 
 #### TAC Chairperson alternate
 
