@@ -5,8 +5,6 @@
 #
 # encoding=utf8
 
-from __future__ import print_function
-import os.path
 import requests
 
 # The ID of a sample document.
