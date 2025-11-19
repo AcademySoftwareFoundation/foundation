@@ -16,7 +16,7 @@ jobs:
       uses: actions/setup-python@2e3e4b15a884dc73a63f962bff250a855150a234
       with:
         python-version: '3.x'
-        pip-install: -r requirements-build-charters.txt
+        pip-install: -r ../.github/workflows/requirements-build-charters.txt
     - name: Run build
       run: |
         cd project_charters
